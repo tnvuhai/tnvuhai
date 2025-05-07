@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Nguyen Vu Hai, I am currently a master's student at National Chung Cheng University, Taiwan.
+You can find more information about me by click this: https://sites.google.com/view/nvhai/
+
 <!--
 **tnvuhai/tnvuhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
